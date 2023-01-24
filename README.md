@@ -1,6 +1,6 @@
 # React-Search
 
-### clone
+### Clone
 git clone https://github.com/bedsongultom/react-search.git
 
 ## Available Scripts
