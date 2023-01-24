@@ -2,8 +2,8 @@ import React, { Component, Fragment } from "react";
 import itemData from "./ItemData";
 
 class Home extends Component {
-    constructor(props){
-        super(props);
+    constructor(){
+        super();
         this.state = {
             itemData: itemData,
             keywords: "",
