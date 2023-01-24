@@ -19,7 +19,7 @@ You may also see any lint errors in the console.
 The below images is layout of React-Search.
 
 ## [x] Search Page
-<img src="https://github.com/bedsongultom/react-search/blob/master/public/images/2023-01-23%2019-31-33.gif" width="400" height="600">
+<img src="https://github.com/bedsongultom/react-search/blob/master/public/images/2023-01-23%2019-31-33.gif" width="700" height="400">
 
 
 
